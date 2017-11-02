@@ -1,0 +1,9 @@
+{
+  "name": "webpack-output-report-plugin",
+  "version": "0.0.0",
+  "description": "A tool to generate a report of webpack output bundle sizes",
+  "main": "index.js",
+  "repository": "git@github.com:Equal/webpack-output-report-plugin.git",
+  "author": "Amal Isaac",
+  "license": "MIT"
+}
